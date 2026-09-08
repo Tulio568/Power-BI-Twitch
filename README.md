@@ -49,25 +49,25 @@ Dane pochodzą ze statystyk własnego kanału streamingowego i obejmują następ
 
 Dane źródłowe wymagały kilku kroków transformacji przed załadowaniem do modelu Power BI:
 
-### Krok 1 — Import danych
+### Krok 1 - Import danych
 Dane zaimportowano z pliku Excel do Power Query jako tabelę strukturalną.
 
-### Krok 2 — Czyszczenie danych
+### Krok 2 - Czyszczenie danych
 - Usunięcie pustych wierszy i kolumn bez wartości
 - Weryfikacja typów danych — konwersja kolumn liczbowych i datowych na właściwe formaty
 - Wykrycie i obsługa wartości brakujących (null)
 
-### Krok 3 — Standaryzacja wartości
+### Krok 3 - Standaryzacja wartości
 - Ujednolicenie formatu dat do RRRR-MM
 - Zaokrąglenie wartości liczbowych do dwóch miejsc po przecinku
 - Weryfikacja spójności jednostek (godziny vs. minuty)
 
-### Krok 4 — Strukturyzacja tabeli
+### Krok 4 - Strukturyzacja tabeli
 - Nadanie kolumnom jednoznacznych, opisowych nazw
 - Sortowanie danych chronologicznie według kolumny miesiąca
 - Finalne sprawdzenie kompletności i poprawności zbioru przed załadowaniem
 
-### Krok 5 — Załadowanie do modelu Power BI
+### Krok 5 - Załadowanie do modelu Power BI
 Oczyszczona tabela załadowana jako źródło danych do Power BI Desktop.
 
 ---
