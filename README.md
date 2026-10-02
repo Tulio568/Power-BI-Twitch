@@ -99,7 +99,7 @@ Dashboard składa się z następujących elementów wizualnych:
 ## 🔗 Link do projektu
 
 Plik dashboardu dostępny na Dysku Google:
-[Zobacz dashboard Power BI](https://drive.google.com/file/d/1UqtMTe8eCL30rSoaXjZ3IIDxF86LBejM/view?usp=sharing)
+[Zobacz dashboard Power BI](https://drive.google.com/file/d/1u6_aT4coHybMw_RT9O3Etu6r9uuak6I1/view?usp=drive_link)
 
 ---
 
